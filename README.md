@@ -1,9 +1,7 @@
-# helloworld
+# LOL随机阵容/英雄选取插件
 
-AstrBot 插件模板
+很简单的一个随机抽取选择
 
-A template plugin for AstrBot plugin feature
+欢迎使用喵~
 
-# 支持
-
-[帮助文档](https://astrbot.app)
+Ciallo～ (∠・ω< )⌒★
